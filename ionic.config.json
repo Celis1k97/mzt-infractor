@@ -1,0 +1,7 @@
+{
+  "name": "Mzt-Infractor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
